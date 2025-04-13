@@ -1,6 +1,0 @@
-streamlit
-PyPDF2
-langchain
-google-generativeai
-numpy
-scikit-learn
